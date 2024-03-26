@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/abs/process/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/process.dir/main.cpp.o -c /home/abs/process/main.cpp",
+  "file": "/home/abs/process/main.cpp",
+  "output": "CMakeFiles/process.dir/main.cpp.o"
+}
+]
